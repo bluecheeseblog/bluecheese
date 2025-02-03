@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+{% include head.html %}
+
+<body>
+  {% include kakao.html %}
+  <!-- Google Tag Manager (noscript) -->
+  <!-- End Google Tag Manager (noscript) -->
+  {% if site.data.settings.google-analytics %}
+  {% include google-analytics.html %}
+  {% endif %}
+
+  {% include header.html %}
+
+  <!-- begin content -->
+  <main class="content" aria-label="Content">
+    {{ content }}
+  </main>
+  <!-- end content -->
+
+  <div class="top ion ion-ios-arrow-up" title="Top"></div>
+
+  {% include search.html %}
+
+  {% include footer.html %}
+
+  {% include javascripts.html %}
+
+  <!-- Messenger 채팅 플러그인 Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your 채팅 플러그인 code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "115115287060422");
+      chatbox.setAttribute("attribution", "page_inbox");
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v11.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/ko_KR/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+#-------------------------------
+# General Site Settings
+title: 블루치즈
+tagline: 좋은 상담센터를 만나는 공간
+logo: logo.svg # You can add own logo.
+description: 심리상담센터 방문을 위한 정부 지원 정보와 상담 전 꿀팁을 블루치즈 블로그에서 확인하세요.
+locale: ko_KR
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: 블루치즈
+  image: blog_thumbnail.png
+  say-hello: 심리상담에 유용한 정보를 쉽게 알려드려요!
+  bio: 심리상담센터 방문을 위한 지원 정보와 상담 전 꿀팁을 확인해보세요
+
+
+#-------------------------------
+# Contact links
+# facebook: https://www.facebook.com/heejun.kim.junian/ # Add your Facebook handle
+# twitter: https://naver.com
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: bluecheese # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+# instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+# instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
