@@ -117,7 +117,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- 네이버 연관채널 등록 구조화된 데이터 태그 끝-->
 <!-- 아티클 구조화된 데이터-->
-{% if page.image %}
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -126,9 +125,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     "image": [
       "{{site.url}}/images/{{page.image}}"
      ],
-    "datePublished": "{{ page.date }}"
+    "datePublished": "{{ page.date }}",
+    "author": [{
+          "@type": "Person",
+          "name": "bluecheese"
+        }]
   }
-  </script>
+</script>
+{% if page.image %}
     {% endif %}
   <!-- 아티클 구조화된 데이터 태그 끝 -->
   <!-- 네이버 검색엔진 등록 -->
