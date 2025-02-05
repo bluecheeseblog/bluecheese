@@ -73,10 +73,10 @@ layout: default
   <div class="post__navigation">
     {% if page.previous.url %}
     <div class="prev">
-      <a id="next_post_img_prev" class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a>
+      <a id="prev_post_img" class="post__nav__image" href="{{ site.baseurl }}{{page.previous.url}}" style="background-image: url({{site.baseurl}}/images/{{page.previous.image}})"></a>
       <h2 class="post__nav__title">
         <i class="ion ion-md-arrow-back"></i>
-        <a id="next_post_title_prev" href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a>
+        <a id="prev_post_title" href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a>
       </h2>
       <p class="prev__excerpt">
         {% if page.previous.description %}
