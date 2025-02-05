@@ -113,7 +113,9 @@ layout: default
   <script type="text/javascript">
   dataLayer.push({
     'event':'post_view',
-    'posttitle' : '{{page.title}}'
+    'posttitle' : '{{page.title}}',
+    'next_posttitle': '{{page.next.title}}',
+    'prev_posttitle': '{{page.previous.title}}'
 });
  </script>
  <script>
