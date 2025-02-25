@@ -143,7 +143,7 @@ description: '심리상담이 필요할까? 우울, 불안, ADHD, 외상 후 스
 
 - 내 위치에서 가까운 믿을 수 있는 상담센터 찾기 가능
 
-#### 📌 [내 주변 검증된 상담센터 찾기](https://bluecheese.kr/?utm_source=blog&utm_medium=social&utm_campaign=bluecheese_blog&utm_content=kakaotalk_free_expert_counseling){:target="_blank"}
+#### 📌 [내 주변 검증된 상담센터 찾기](https://bluecheese.kr/?utm_source=blog&utm_medium=social&utm_campaign=bluecheese_blog&utm_content=self_check_counseling_need){:target="_blank"}
 
 ## 심리상담 비용이 걱정된다면? 정부 지원 바우처 활용하기
 
