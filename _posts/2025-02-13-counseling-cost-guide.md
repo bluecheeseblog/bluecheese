@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /counseling-cost-guide/
-title: "심리상담 비용, 비싸게 내지 마세요 – 심리상담 바우처로 상담료 절약하는 법"
+title: "심리상담 비용, 비싸게 내지 마세요. 심리상담 바우처로 상담료 절약하는 법"
 date: 2025-02-13 13:00:00 +09:00
 image : posts/counseling-cost-guide/counseling_cost_guide_thumb.png
 tags:
