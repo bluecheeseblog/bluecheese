@@ -5,7 +5,7 @@ title: "정신과 vs 심리상담, 비용 차이부터 상담 방식까지 완�
 date: 2025-02-25 16:00:00 +09:00
 image : posts/psychiatry-vs-counseling-guide/psychiatry_vs_counseling_guide_thumb.png
 tags:
-  - 심리상담 정보
+  - 심리상담정보
 description: '정신과 상담 비용과 심리 상담 비용, 얼마나 차이 날까? 보험 적용 여부, 상담 방식 차이를 비교하고 내게 맞는 상담을 선택하세요.'
 ---
 

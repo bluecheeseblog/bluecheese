@@ -5,7 +5,7 @@ title: "번아웃 증상, 심리상담이 해결책이 될까?"
 date: 2025-03-07 13:30:00 +09:00
 image : posts/burnout-syndrome-need-counseling/burnout_syndrome_need_counseling_thumb.png
 tags:
-  - 심리상담 정보
+  - 심리상담정보
 description: '번아웃 해결 방법, 심리상담이 어떻게 도움될 수 있을까? 신뢰할 수 있는 상담센터 찾는 법까지 안내합니다.'
 ---
 

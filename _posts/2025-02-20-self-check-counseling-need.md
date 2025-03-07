@@ -5,7 +5,7 @@ title: "심리상담 필요 여부 체크! 신뢰할 수 있는 자가진단 리
 date: 2025-02-20 16:00:00 +09:00
 image : posts/self-check-counseling-need/self_check_counseling_need_thumb.png
 tags:
-  - 심리상담 정보
+  - 심리상담정보
 description: '심리상담이 필요할까? 우울, 불안, ADHD, 외상 후 스트레스, 자살 위험성 등 신뢰할 수 있는 자가진단 체크리스트를 정리했습니다.'
 ---
 

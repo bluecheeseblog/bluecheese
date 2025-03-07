@@ -5,7 +5,7 @@ title: "실제 상담사와 대화하는 카톡 무료 심리상담, 안전한 �
 date: 2025-02-18 14:30:00 +09:00
 image : posts/kakaotalk-free-expert-counseling/kakaotalk_free_expert_counseling_thumb.png
 tags:
-  - 심리상담 정보
+  - 심리상담정보
 description: '전화 상담이 부담스럽다면? 카톡에서 무료 심리상담을 받을 수 있는 방법을 소개합니다. 실제 상담사와 대화 가능한 채널만 정리했습니다.'
 ---
 

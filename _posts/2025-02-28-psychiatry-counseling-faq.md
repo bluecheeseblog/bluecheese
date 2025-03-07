@@ -5,7 +5,7 @@ title: "정신과 상담, 가장 많이 묻는 질문 10가지 총정리"
 date: 2025-02-28 18:00:00 +09:00
 image : posts/psychiatry-counseling-faq/psychiatry_counseling_faq_thumb.png
 tags:
-  - 정신과 상담 정보
+  - 정신과상담정보
 description: '정신과 상담 전 꼭 알아야 할 필수 정보! 기록 남나요? 실손보험 가입에 영향이 있나요? 상담 절차는? 정신과 상담에 대한 가장 많이 묻는 질문 10가지에 답변합니다.'
 ---
 

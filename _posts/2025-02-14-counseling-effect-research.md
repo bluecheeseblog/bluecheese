@@ -5,7 +5,7 @@ title: "심리상담 효과, 연구로 확인된 개선 가능성 & 상담 기�
 date: 2025-02-14 15:30:00 +09:00
 image : posts/counseling-effect-research/counseling_effect_research_thumb.png
 tags:
-  - 심리상담 정보
+  - 심리상담정보
 description: '심리상담이 정말 효과가 있을까요? 연구로 검증된 심리치료 효과, 상담 기간별 개선율, 효과적인 상담 기법까지 한눈에 확인해보세요.'
 ---
 

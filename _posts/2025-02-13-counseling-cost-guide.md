@@ -5,7 +5,7 @@ title: "심리상담 비용, 비싸게 내지 마세요. 심리상담 바우처�
 date: 2025-02-13 13:00:00 +09:00
 image : posts/counseling-cost-guide/counseling_cost_guide_thumb.png
 tags:
-  - 심리상담 정보
+  - 심리상담정보
 description: '심리상담 비용이 상담 유형별로 얼마나 다를까요? 1회 상담료 비교, 개인·병원·무료 상담 비용 차이, 정부 지원 활용법까지 총정리! 비용 부담을 줄이는 방법을 확인하세요.'
 ---
 

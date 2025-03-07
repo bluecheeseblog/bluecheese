@@ -5,7 +5,7 @@ title: "아동청소년 정서발달 지원서비스 바우처에 대해 쉽게 
 date: 2025-02-02 13:15:00 +09:00
 image : posts/child-emotion/child_emotion_thumb.png
 tags:
-  - 바우처 정보
+  - 바우처정보
 description: '아동청소년 정서발달 지원서비스 바우처가 무엇인지 알아보고, 누가 신청할 수 있는지 어떤 혜택이 있는지 살펴보겠습니다.'
 ---
 

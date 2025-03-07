@@ -5,7 +5,7 @@ title: "심리상담사 아무나 될 수 없다? 공신력 있는 상담사 고
 date: 2025-02-06 13:25:00 +09:00
 image : posts/choose-trustworthy-counselor/choose_trustworthy_counselor_thumb.png
 tags:
-  - 심리상담 정보
+  - 심리상담정보
 description: '심리상담사, 아무나 될 수 있지만 신뢰할 수 있는 상담사는 따로 있습니다! 공신력 있는 상담사 선택법과 자격증 확인법을 알아보세요.'
 ---
 
