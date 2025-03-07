@@ -134,7 +134,7 @@ description: '번아웃 해결 방법, 심리상담이 어떻게 도움될 수 �
 
 4. **대인관계 & 일의 의미 회복**: 번아웃이 대인관계 문제로 연결되는 경우, 관계를 회복하는 방법을 배울 수 있습니다.
 
-**📌 [유형, 기관, 경력별 상담비용 차이 알아보기**](https://blog.bluecheese.kr/counseling-cost-guide/)
+**📌 [유형, 기관, 경력별 상담비용 차이 알아보기](https://blog.bluecheese.kr/counseling-cost-guide/)**
 
 ---
 
